@@ -1,2 +1,2 @@
 # Unveiing The Data Analytics Landscape: 1990, 2023 and beyond
-A document explaining the evolution of the analytics landscape over the years 1990, 2023 and 2025(predicted). Read more about it on https://www.linkedin.com/feed/update/urn
+A document explaining the evolution of the analytics landscape over the years 1990, 2023 and 2025(predicted). Read more about it on https://www.linkedin.com/feed/update/urn:li:activity:7069371777981759488?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7069371777981759488%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BF5w%2Fg4E%2FQpOxTMDC3wVWYA%3D%3D
